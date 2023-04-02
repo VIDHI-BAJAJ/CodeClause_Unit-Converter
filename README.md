@@ -1,2 +1,2 @@
 # CodeClause_Unit-Converter
-This project is a unit converter made using HTML, CSS, and JavaScript. It allows users to convert values between different units of measurement, such as inches to centimeters or pounds to kilograms. 
+This project is a unit converter made using HTML, CSS, and JavaScript. It allows users to convert values between different units of measurement, such as inches to centimeters or pounds to kilograms. The project demonstrates my proficiency in front-end web development using these technologies, as well as my ability to write clean, well-documented code. I used event handling, DOM manipulation, and conditional statements to create a user-friendly and responsive interface
